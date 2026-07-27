@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/docs/" />
+  <Folder Name="/src/">
+    <Project Path="RAG.Application/RAG.Application.csproj" />
+    <Project Path="RAG.Console/RAG.Console.csproj" />
+    <Project Path="RAG.Domain/RAG.Domain.csproj" />
+    <Project Path="RAG.Infrastructure/RAG.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="RAG.Application.Tests/RAG.Application.Tests.csproj" />
+    <Project Path="RAG.Domain.Tests/RAG.Domain.Tests.csproj" />
+    <Project Path="RAG.Infrastructure.Tests/RAG.Infrastructure.Tests.csproj" />
+  </Folder>
+</Solution>
